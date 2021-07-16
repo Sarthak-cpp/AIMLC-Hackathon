@@ -2,9 +2,7 @@
 # Hack the Summer
 Project by Sarthak, Isha Jain and Pratik Nimbalkar
 
-Used - Tensorflow, Keras, Google Colab, skimage
-
-Please try to run my codes on python 3.7
+Used - Python, Tensorflow, Keras, Google Colab, skimage, NumPy
 
 ## Task - 1
 
