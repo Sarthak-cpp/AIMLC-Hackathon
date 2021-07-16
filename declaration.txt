@@ -1,0 +1,4 @@
+Task 1 - The work submitted is completely our own. We didn't take help from any external dataset, site or person about the specific problem
+
+Task 2 - We used an external dataset of handwritten math symbols to train an initial model to label the given data.
+	 link - https://www.kaggle.com/clarencezhao/handwritten-math-symbol-dataset
