@@ -1,6 +1,6 @@
 
 # Hack the Summer
-Project by Sarthak, Isha Jain and Pratik Nimbalkar
+Project by Sarthak
 
 Used - Python, Tensorflow, Keras, Google Colab, skimage, NumPy
 
